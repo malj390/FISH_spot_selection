@@ -1,5 +1,5 @@
 # FISH_spot_selection
-This tool is meant for the manual intensity extraction of FISH foci.
+This tool is meant for the manual intensity extraction of FISH spots.
 
 Using napari as GUI, the user can select from the maximum projection (ch, y, x) of arrays with shape (z, ch, y, x) the points to extract a fixed XYZ volume (pixels) intensities. 
 As output the user can generate:
